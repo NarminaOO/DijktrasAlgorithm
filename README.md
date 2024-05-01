@@ -10,7 +10,7 @@ This C++ code is an implementation of Dijkstra's algorithm to find the shortest 
 6. It then updates the distances to its neighboring vertices if a shorter path is found through the current vertex.
 7. Once Dijkstra's algorithm completes, it prints out the adjacency matrix of the graph and the shortest distances from the starting vertex to all other vertices.
 
-## How to use
+## How to use the programm
 1.Enter the number of vertices: When prompted, enter the number of vertices in your graph.
 2.Enter the weights of edges: For each pair of vertices, enter the weight of the edge connecting them. The program prompts you to enter the weights in sequence, starting from vertex 1 to the last vertex.
 3.View the output: After entering the weights, the program will display the adjacency matrix of the graph and the shortest distances from the source vertex to all other vertices.

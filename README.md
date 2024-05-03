@@ -1,5 +1,4 @@
 ## Dijkstras algorithm
-
 This C++ code is an implementation of Dijkstra's algorithm to find the shortest paths from a starting vertex to all other vertices in a weighted undirected graph. 
 ### Explanation
 1. In the `main()` function, it prompts the user to enter the number of vertices in the graph.
